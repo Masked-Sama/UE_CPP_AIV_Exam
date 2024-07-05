@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ceret\\onedrive\\desktop\\aivprojectcpp\\source\\aivprojectcpp\\collectible.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ceret\\onedrive\\desktop\\aivprojectcpp\\intermediate\\build\\win64\\x64\\aivprojectcppeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\ceret\\onedrive\\desktop\\aivprojectcpp\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\aivprojectcpp\\definitions.aivprojectcpp.h",
+            "c:\\users\\ceret\\onedrive\\desktop\\aivprojectcpp\\source\\aivprojectcpp\\collectible.h",
+            "c:\\users\\ceret\\onedrive\\desktop\\aivprojectcpp\\intermediate\\build\\win64\\unrealeditor\\inc\\aivprojectcpp\\uht\\collectible.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\boxcomponent.generated.h",
+            "c:\\users\\ceret\\onedrive\\desktop\\aivprojectcpp\\source\\aivprojectcpp\\icollectibles.h",
+            "c:\\users\\ceret\\onedrive\\desktop\\aivprojectcpp\\intermediate\\build\\win64\\unrealeditor\\inc\\aivprojectcpp\\uht\\icollectibles.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

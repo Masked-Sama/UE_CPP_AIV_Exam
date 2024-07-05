@@ -1,0 +1,39 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.AIVProjectCPP.cpp.obj": [
+			"AIVProjectCPP.init.gen.cpp.obj",
+			"AIVProjectCPPCharacter.gen.cpp.obj",
+			"AIVProjectCPPGameMode.gen.cpp.obj",
+			"CheckPoint.gen.cpp.obj",
+			"Collectible.gen.cpp.obj",
+			"ICollectibles.gen.cpp.obj",
+			"MovingPlatform.gen.cpp.obj",
+			"MyPlatformerChar.gen.cpp.obj",
+			"MyTextRenderActor.gen.cpp.obj",
+			"PlatformerBoxV2.gen.cpp.obj",
+			"PlatformerCard.gen.cpp.obj",
+			"PlatformerDoor.gen.cpp.obj",
+			"PlatformerGameModeBase.gen.cpp.obj",
+			"PlatformerPad.gen.cpp.obj",
+			"PlatformSaveGame.gen.cpp.obj",
+			"UpdateCollectiblesCounter.gen.cpp.obj",
+			"AIVProjectCPP.cpp.obj",
+			"AIVProjectCPPCharacter.cpp.obj",
+			"AIVProjectCPPGameMode.cpp.obj",
+			"CheckPoint.cpp.obj",
+			"Collectible.cpp.obj",
+			"ICollectibles.cpp.obj",
+			"MovingPlatform.cpp.obj",
+			"MyPlatformerChar.cpp.obj",
+			"MyTextRenderActor.cpp.obj",
+			"PlatformerBoxV2.cpp.obj",
+			"PlatformerCard.cpp.obj",
+			"PlatformerDoor.cpp.obj",
+			"PlatformerGameModeBase.cpp.obj",
+			"PlatformerPad.cpp.obj",
+			"PlatformSaveGame.cpp.obj",
+			"UpdateCollectiblesCounter.cpp.obj"
+		]
+	}
+}

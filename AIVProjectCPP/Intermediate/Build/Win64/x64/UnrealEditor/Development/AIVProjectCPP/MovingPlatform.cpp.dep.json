@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ceret\\onedrive\\desktop\\aivprojectcpp\\source\\aivprojectcpp\\movingplatform.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ceret\\onedrive\\desktop\\aivprojectcpp\\intermediate\\build\\win64\\x64\\aivprojectcppeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\ceret\\onedrive\\desktop\\aivprojectcpp\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\aivprojectcpp\\definitions.aivprojectcpp.h",
+            "c:\\users\\ceret\\onedrive\\desktop\\aivprojectcpp\\source\\aivprojectcpp\\movingplatform.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\boxcomponent.generated.h",
+            "c:\\users\\ceret\\onedrive\\desktop\\aivprojectcpp\\intermediate\\build\\win64\\unrealeditor\\inc\\aivprojectcpp\\uht\\movingplatform.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\components\\interptomovementcomponent.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\movementcomponent.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\movementcomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\interptomovementcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

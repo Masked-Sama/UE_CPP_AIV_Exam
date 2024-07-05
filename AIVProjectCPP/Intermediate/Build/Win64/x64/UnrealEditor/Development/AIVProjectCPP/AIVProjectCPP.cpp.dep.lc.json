@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ceret\\onedrive\\desktop\\aivprojectcpp\\source\\aivprojectcpp\\aivprojectcpp.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ceret\\onedrive\\desktop\\aivprojectcpp\\intermediate\\build\\win64\\x64\\aivprojectcppeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\ceret\\onedrive\\desktop\\aivprojectcpp\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\aivprojectcpp\\definitions.aivprojectcpp.h",
+            "c:\\users\\ceret\\onedrive\\desktop\\aivprojectcpp\\source\\aivprojectcpp\\aivprojectcpp.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

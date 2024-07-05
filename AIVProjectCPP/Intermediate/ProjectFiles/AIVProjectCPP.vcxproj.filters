@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\AIVProjectCPP.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AIVProjectCPP.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\AIVProjectCPPEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\AIVProjectCPP">
+      <UniqueIdentifier>{4D60627D-5BBB-3DDF-924D-77DF97ABC168}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AIVProjectCPP\AIVProjectCPP.Build.cs">
+      <Filter>Source\AIVProjectCPP</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\AIVProjectCPP\AIVProjectCPP.cpp">
+      <Filter>Source\AIVProjectCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AIVProjectCPP\AIVProjectCPP.h">
+      <Filter>Source\AIVProjectCPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AIVProjectCPP\AIVProjectCPPCharacter.cpp">
+      <Filter>Source\AIVProjectCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AIVProjectCPP\AIVProjectCPPCharacter.h">
+      <Filter>Source\AIVProjectCPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AIVProjectCPP\AIVProjectCPPGameMode.cpp">
+      <Filter>Source\AIVProjectCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AIVProjectCPP\AIVProjectCPPGameMode.h">
+      <Filter>Source\AIVProjectCPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AIVProjectCPP\CheckPoint.cpp">
+      <Filter>Source\AIVProjectCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AIVProjectCPP\CheckPoint.h">
+      <Filter>Source\AIVProjectCPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AIVProjectCPP\Collectible.cpp">
+      <Filter>Source\AIVProjectCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AIVProjectCPP\Collectible.h">
+      <Filter>Source\AIVProjectCPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AIVProjectCPP\ICollectibles.cpp">
+      <Filter>Source\AIVProjectCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AIVProjectCPP\ICollectibles.h">
+      <Filter>Source\AIVProjectCPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AIVProjectCPP\MovingPlatform.cpp">
+      <Filter>Source\AIVProjectCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AIVProjectCPP\MovingPlatform.h">
+      <Filter>Source\AIVProjectCPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AIVProjectCPP\MyPlatformerChar.cpp">
+      <Filter>Source\AIVProjectCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AIVProjectCPP\MyPlatformerChar.h">
+      <Filter>Source\AIVProjectCPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AIVProjectCPP\MyTextRenderActor.cpp">
+      <Filter>Source\AIVProjectCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AIVProjectCPP\MyTextRenderActor.h">
+      <Filter>Source\AIVProjectCPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AIVProjectCPP\PlatformerBoxV2.cpp">
+      <Filter>Source\AIVProjectCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AIVProjectCPP\PlatformerBoxV2.h">
+      <Filter>Source\AIVProjectCPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AIVProjectCPP\PlatformerCard.cpp">
+      <Filter>Source\AIVProjectCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AIVProjectCPP\PlatformerCard.h">
+      <Filter>Source\AIVProjectCPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AIVProjectCPP\PlatformerDoor.cpp">
+      <Filter>Source\AIVProjectCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AIVProjectCPP\PlatformerDoor.h">
+      <Filter>Source\AIVProjectCPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AIVProjectCPP\PlatformerGameModeBase.cpp">
+      <Filter>Source\AIVProjectCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AIVProjectCPP\PlatformerGameModeBase.h">
+      <Filter>Source\AIVProjectCPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AIVProjectCPP\PlatformerPad.cpp">
+      <Filter>Source\AIVProjectCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AIVProjectCPP\PlatformerPad.h">
+      <Filter>Source\AIVProjectCPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AIVProjectCPP\PlatformSaveGame.cpp">
+      <Filter>Source\AIVProjectCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AIVProjectCPP\PlatformSaveGame.h">
+      <Filter>Source\AIVProjectCPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AIVProjectCPP\UpdateCollectiblesCounter.cpp">
+      <Filter>Source\AIVProjectCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AIVProjectCPP\UpdateCollectiblesCounter.h">
+      <Filter>Source\AIVProjectCPP</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

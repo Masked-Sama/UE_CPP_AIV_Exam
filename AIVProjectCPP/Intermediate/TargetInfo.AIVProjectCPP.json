@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "AIVProjectCPP",
+			"Path": "..\\Source\\AIVProjectCPP.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AIVProjectCPPEditor",
+			"Path": "..\\Source\\AIVProjectCPPEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
